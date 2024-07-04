@@ -1,3 +1,6 @@
-_tuple = (12,34, "string")
+_set = set()
 
-_tuple[0] = 10
+_set.add(18)
+_set.add("18")
+
+print(_set)
