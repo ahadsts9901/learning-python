@@ -1,6 +1,9 @@
-a = 5
-b = 2
+_letter = """
+Dear <Name> 
+    you are invited on 
+<Date>
+"""
 
-c = 5%2
+_letter.replace("<Name>", "Abdul Ahad").replace("<Date>", "12/12/2024")
 
-print(c)
+print(_letter)
