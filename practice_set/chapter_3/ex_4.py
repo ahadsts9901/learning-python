@@ -1,3 +1,5 @@
-_num = input("enter a number")
+_str = "hello  i am  a programmer"
 
-print(type(_num))
+_str.replace("  ", " ").replace("  ", " ")
+
+print(_str)
