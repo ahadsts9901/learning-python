@@ -1,7 +1,3 @@
-_letter = """
-Dear Harry, 
-        This python course is nice, 
-    Thanks
-"""
+_tuple = (0,0,5,0,4,0,7,0,50,75,5)
 
-print(_letter)
+print(_tuple.count(0))
