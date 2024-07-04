@@ -1,5 +1,3 @@
-import os
+_num = input("enter a number")
 
-_items = os.listdir("/")
-
-print(_items)
+print(type(_num))
