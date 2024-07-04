@@ -1,4 +1,5 @@
-a = 34
-b = 80
+_str = "hello  i am  a programmer"
 
-print(f"{a} is greater than {b}, this is {a>b}")
+_is_space = _str.find("  ")
+
+print(f"space found {_is_space}")
