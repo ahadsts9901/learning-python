@@ -4,4 +4,6 @@ _words = {
     "eat": "khao",
 }
 
-print(_words["hello"])
+_input = input("enter english word you want to translate")
+
+print(_words[_input])
