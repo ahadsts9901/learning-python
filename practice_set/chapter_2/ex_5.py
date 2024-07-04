@@ -1,8 +1,6 @@
-# import os module
-import os
+_num_1 = int(input("enter number 1"))
+_num_2 = int(input("enter number 2"))
 
-# get directory items
-_items = os.listdir("/")
+_result = (_num_1 + _num_2) / 2
 
-# print items
-print(_items)
+print(_result)
