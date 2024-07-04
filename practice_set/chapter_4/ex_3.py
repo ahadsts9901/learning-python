@@ -1,7 +1,3 @@
-_list = []
-print(type(_list))
+_tuple = (12,34, "string")
 
-_list = "str"
-print(type(_list))
-
-print(type(_list))
+_tuple[0] = 10
