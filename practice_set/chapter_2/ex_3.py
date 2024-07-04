@@ -1,3 +1,4 @@
-import pyttsx3
+a = 34
+b = 80
 
-pyttsx3.speak("task completed")
+print(f"{a} is greater than {b}, this is {a>b}")
