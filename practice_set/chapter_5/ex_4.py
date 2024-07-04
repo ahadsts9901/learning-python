@@ -1,3 +1,7 @@
-_list = [1,2,3,4,5]
+s = set()
 
-print(sum(_list))
+s.add(20)
+s.add(20.0)
+s.add("20")
+
+print(len(s))
