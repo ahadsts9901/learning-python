@@ -3,6 +3,7 @@ print('hello world')
 
 name = "Ahad"
 
+
 print(f"hello {name}")
 
 print('''
@@ -12,6 +13,7 @@ print('''
       hello world
       ''')
 
+name = "Abdul Ahad"
 
 print("""
       hello world
