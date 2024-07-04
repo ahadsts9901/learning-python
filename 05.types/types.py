@@ -4,7 +4,7 @@ _floating_point_number = 23.6
 _list = [1,2,3,"hello", True]
 _none = None
 _dictionary = {
-    "name": "ahad",
+    "name": "Ahad",
     "age": 19,
     "languages": ["python", "typescript", "javascript"]
 }
