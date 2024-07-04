@@ -1,5 +1,7 @@
-_str = "hello  i am  a programmer"
+_list = []
+print(type(_list))
 
-_is_space = _str.find("  ")
+_list = "str"
+print(type(_list))
 
-print(f"space found {_is_space}")
+print(type(_list))
