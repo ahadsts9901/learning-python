@@ -6,5 +6,7 @@ print(sum(1,4))
 
 
 
-# lambda
+
+# lambda (like arrow functions / anonymous functions)
+# syntax ==> lambda arguments: expression
 sum = lambda a, b: a + b
