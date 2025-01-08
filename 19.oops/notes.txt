@@ -1,0 +1,2 @@
+what is class ??
+    class is the blueprint of an object
