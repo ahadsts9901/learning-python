@@ -7,7 +7,7 @@ class SecurityGuard:
 class Coder(SecurityGuard):
     
     def __init__(self):
-        super().__init__()
+        super().__init__() # runs the parent constructor also
         print("coder constructor")
 
 
@@ -15,7 +15,7 @@ class Coder(SecurityGuard):
 class Officer(Coder):
 
     def __init__(self):
-        super().__init__()
+        super().__init__() # runs the parent constructor also
         print("officer constructor")
 
 
