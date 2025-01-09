@@ -31,7 +31,11 @@ s = [1,2,3,4,5,6,7]
 def sum(a,b):
     return a + b
 
+mul = lambda x, y : x * y
+
 red_sum = reduce(sum, s)
+red_mul = reduce(mul, s)
 
 print(red_sum)
+print(red_mul)
 
