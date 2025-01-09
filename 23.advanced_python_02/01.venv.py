@@ -1,1 +1,1 @@
-# env ka folder nahi bana yaar
+# hogya... .gitignore me hai tumhain nahi dikhega

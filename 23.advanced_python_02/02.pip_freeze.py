@@ -1,1 +1,3 @@
-# kaam krna hai lekin nahi kia abhi tak
+# pip freeze
+# pip freeze requirements.txt
+# pip install -r requirements.txt
