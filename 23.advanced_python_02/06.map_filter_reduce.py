@@ -1,3 +1,6 @@
+from functools import reduce
+
+
 # map
 
 l = [2,3,4,5,6]
@@ -22,4 +25,13 @@ print(even_list)
 
 
 # reduce
+
+s = [1,2,3,4,5,6,7]
+
+def sum(a,b):
+    return a + b
+
+red_sum = reduce(sum, s)
+
+print(red_sum)
 
