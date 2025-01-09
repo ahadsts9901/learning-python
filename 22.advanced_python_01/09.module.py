@@ -6,3 +6,4 @@ def myFunc():
 if __name__ == "__main__" :
     myFunc()
     print(__name__)
+
